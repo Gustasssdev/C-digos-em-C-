@@ -14,7 +14,7 @@ int main() {
 
         // imprime os asteriscos com espaço entre eles
         for (k = 1; k <= i; k++) {
-            printf("* ");
+            printf("#");
         }
 
         printf("\n");
