@@ -90,8 +90,6 @@ float raiz(int radicando){
         return result_pot; 
         }
 
-        #include <stdio.h>
-        #include <math.h>
         
         // Funções e structs permanecem iguais...
         float calcular_naturais(float n1, float n2,char op){
@@ -223,6 +221,4 @@ float raiz(int radicando){
 
 
     
-   
-
- 
+  
